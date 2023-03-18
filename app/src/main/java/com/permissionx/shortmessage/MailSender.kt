@@ -25,7 +25,7 @@ import javax.mail.internet.MimeMultipart
 import javax.mail.internet.MimeUtility
 
 /**
- * 发送器
+ * 发送器2023-3-18
  */
 class MailSender {
     /**
